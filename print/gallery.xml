@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<simpleviewerGallery backgroundImagePath="" maxImageWidth="1500" maxImageHeight="1500" imagePath="print/images/large/" thumbPath="print/images/thumb/" frameColor="0xffffff" textColor="0xffffff" frameWidth="0" stagePadding="40" thumbnailColumns="2" thumbnailRows="4" navPosition="left" enableRightClickOpen="false"> 
+<simpleviewerGallery backgroundImagePath="" maxImageWidth="1500" maxImageHeight="1500" imagePath="images/large/" thumbPath="images/thumb/" frameColor="0xffffff" textColor="0xffffff" frameWidth="0" stagePadding="40" thumbnailColumns="2" thumbnailRows="4" navPosition="left" enableRightClickOpen="false"> 
 <image>
 <filename>_3321611040.jpg</filename>
 <caption></caption>
